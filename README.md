@@ -33,6 +33,6 @@ Welcome to the Karhbti project! 🌟 This project is all about leveraging data-d
 - Collaborating with local industry experts and organizations to enhance the project's impact.
 
 ## Connect with Me
-📫 Let's connect and discuss the fascinating world of automotive analytics! Feel free to reach out on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kadrisemah)
+📫 Let's connect and discuss the fascinating world of automotive analytics! Feel free to reach out on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kadrisemah)
 
 Thank you for your interest in the Karhbti project! Together, we can drive innovation in the Tunisian automotive market. 🚗💨 #DataDrivenInsights #AutomotiveAnalysis #TunisiaMarketAnalysis
